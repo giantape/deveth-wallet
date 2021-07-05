@@ -6,4 +6,4 @@ if you find some and posted in our issues page, i will grant you 30dTH for each 
 
 join to our discord <a href="https://discord.gg/pWzZKsbv" target="_blank">devETH</a>
 
-<a href="https://www.devethwallet.de">devETH-Wallet</a>
+devETH-wallet official page: <a href="https://www.devethwallet.de">devETH-Wallet</a>
