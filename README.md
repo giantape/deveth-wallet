@@ -12,6 +12,8 @@ devETH official page: <a href="https://www.deveth.org" target="_blank">devETH</a
 
 devETHswap DEX official page: <a href="https://www.devethswap.de" target="_blank">devETHswap interface</a>
 
+For Miner <a href="https://cethpool.vkoskiv.com/" target="_blank">devETH-pool</a>
+
 
 <h3>Let's build devETH together!</h3>
 
