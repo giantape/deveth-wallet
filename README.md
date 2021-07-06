@@ -13,6 +13,6 @@ devETH official page: <a href="https://www.deveth.org" target="_blank">devETH</a
 devETHswap DEX official page: <a href="https://www.devethswap.de" target="_blank">devETHswap interface</a>
 
 
-- Let's build devETH together! -
+<h3>Let's build devETH together!</h3>
 
 
