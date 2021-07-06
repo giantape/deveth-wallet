@@ -1,9 +1,9 @@
 # deveth-wallet
 
 
-<div style="text-align: center;">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devethorg/web/9e9890ff5201e1517be21eae1fe84fc2d951ebfb/src/assets/img/deveth_wallet.png" width="150"/>
-</div>
+</p>
 
 We're happy to relaunch first version of our devethwallet. but this is not the end of our devethwallet project.
 this project is away from done. for sure you will find one or more bugs inside,
