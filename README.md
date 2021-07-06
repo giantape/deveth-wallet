@@ -2,7 +2,7 @@
 
 
 <div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/devethorg/web/9e9890ff5201e1517be21eae1fe84fc2d951ebfb/src/assets/img/deveth_wallet.png" style="width: '100px'; margin-bottom: '60px';"/>
+  <img src="https://raw.githubusercontent.com/devethorg/web/9e9890ff5201e1517be21eae1fe84fc2d951ebfb/src/assets/img/deveth_wallet.png" style="width: 150; margin: '0 auto 60px';"/>
 </div>
 
 We're happy to relaunch first version of our devethwallet. but this is not the end of our devethwallet project.
